@@ -1,0 +1,2 @@
+# discordbotfirst
+selmanus
